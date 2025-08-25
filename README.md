@@ -7,10 +7,10 @@
 
 ## 📜 Tabela de Conteúdos
 
-1.  [Sobre o Projeto](📖-Sobre-o-Projeto)
-2.  [Funcionalidades](✨-Funcionalidades)
-3.  [Tecnologias Utilizadas](🛠️-Tecnologias-Utilizadas)
-4.  [Como Executar](🚀-Como-Executar)
+1.  [Sobre o Projeto](#-sobre-o-projeto)
+2.  [Funcionalidades](#-funcionalidades)
+3.  [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+4.  [Como Executar](#-como-executar)
 
 
 -----
